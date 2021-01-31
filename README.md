@@ -54,10 +54,10 @@ Pat:
    * Email: joe.sum.twelve@gmail.com
    * Relationship: Tracy's Ex Husband & Terrys Father
    
-   Carry
-    * Phone Number: (202) 725-2124
-    * Email: N/A
-    * Relationship: Tracy's Friend * Coconspirator
+  Carry
+   * Phone Number: (202) 725-2124
+   * Email: N/A
+   * Relationship: Tracy's Friend * Coconspirator
 # Evidence relating to defacement of museum art
 This sub-section provides details regarding the evidence found as it relates to the defacement of museum art. 
 
