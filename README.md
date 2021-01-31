@@ -31,24 +31,29 @@ Local Law Enforcement was able to obtain and extract a bit stream image of her I
   * Uses Email: tracysumtwelve@gmail.com
 # Evidence to Establish Involved Persona's 
 This section establishes aliases, phone number, emails addresses, assoicated with each person and relationships between each indivdual.
+
 Tracy: 
  * Phone Number: (703) 340-9961
  * Personal Email: tracysumtwelve@gmail.com
  * Work Email: tracy.sumtwelve@nationalgallerydc.org
  * Relationship: Accused
+ 
 Pat: 
  * Phone Number: (571) 340-9961
  * Personal Email(s): perrypatsum@yahoo.com
                       patsumtwelve@gmail.com
  * Relationship: Tracy's Brother
+ 
  Terry: 
   * Phone Number: (703) 829-6071 
   * Email: N/A
   * Relationship: Tracys Daughter
+  
   Joe: 
    * Phone Number: N/A
    * Email: joe.sum.twelve@gmail.com
    * Relationship: Tracy's Ex Husband & Terrys Father
+   
    Carry
     * Phone Number: (202) 725-2124
     * Email: N/A
